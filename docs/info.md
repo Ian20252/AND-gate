@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-it is an AND gate
+"it is an AND gate"
 
 ## How to test
 
-Use the first two switches to turn on led
+"Use the first two switches to turn on led"
 
 ## External hardware
 
-led
+"led"
